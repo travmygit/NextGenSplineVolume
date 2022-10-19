@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "NextGenSplineVolume",
+	"Description": "Generate high-performance-custom-shape volume with spline component!",
+	"Category": "NextGen",
+	"CreatedBy": "trav",
+	"CreatedByURL": "https://github.com/travmygit",
+	"DocsURL": "https://github.com/travmygit/NextGenSplineVolume",
+	"MarketplaceURL": "",
+	"SupportURL": "https://github.com/travmygit/NextGenSplineVolume",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "NextGenSplineVolume",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
